@@ -1,0 +1,12 @@
+div { 
+/*    width: 400px;*/
+    border: solid 3px blue;
+}
+
+#maincontent {
+    margin: 40px;
+}
+.orangeborder {
+    border: solid 3px orange;
+}
+
